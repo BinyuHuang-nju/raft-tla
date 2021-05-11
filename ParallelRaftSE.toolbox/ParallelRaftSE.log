@@ -1,0 +1,272 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.23)  11 MAY 2021 19:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ParallelRaftSE.tex
+(./ParallelRaftSE.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(d:/texlive/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(d:/texlive/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (d:/texlive/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+(d:/texlive/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+(d:/texlive/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)) (d:/texlive/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (d:/texlive/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\symlength=\skip49
+\equalswidth=\skip50
+\charwidth=\skip51
+\boxrulewd=\skip52
+\boxlineht=\skip53
+\boxruleht=\skip54
+\boxruledp=\skip55
+\pcalvspace=\skip56
+\lcomindent=\skip57
+\@xlen=\skip58
+\templena=\skip59
+\templenb=\skip60
+\tempboxa=\box45
+\vshadelen=\skip61
+\boxwidth=\skip62
+\multicommentdepth=\skip63
+\c@pardepth=\count175
+\tempsbox=\box46
+\@cparht=\skip64
+\@cpardp=\skip65
+\xmcomlen=\skip66
+\spacewidth=\skip67
+\alignboxwidth=\skip68
+\alignwidth=\skip69
+\alignbox=\box47
+\symtlaitalics=\mathgroup5
+\c@tlx@ctr=\count176
+(d:/texlive/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks15
+\verbatim@line=\toks16
+\verbatim@in@stream=\read2
+) (d:/texlive/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box48
+) (./ParallelRaftSE.aux)
+\openout1 = `ParallelRaftSE.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 939.
+LaTeX Font Info:    ... okay on input line 939.
+(d:/texlive/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count178
+\scratchdimen=\dimen135
+\scratchbox=\box49
+\nofMPsegments=\count179
+\nofMParguments=\count180
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen136
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 942.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 942.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 94
+2.
+(d:/texlive/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 947.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 947.
+
+Overfull \hbox (35.20058pt too wide) in paragraph at lines 996--998
+[][] 
+ []
+
+
+Overfull \hbox (38.38306pt too wide) in paragraph at lines 1003--1006
+[][] 
+ []
+
+
+Overfull \hbox (35.7509pt too wide) in paragraph at lines 1006--1008
+[][] 
+ []
+
+
+Overfull \hbox (74.201pt too wide) in paragraph at lines 1011--1014
+[][] 
+ []
+
+
+Overfull \hbox (33.77657pt too wide) in paragraph at lines 1014--1017
+[][] 
+ []
+
+[1
+
+{d:/texlive/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (19.86732pt too wide) in paragraph at lines 1017--1019
+[][] 
+ []
+
+
+Overfull \hbox (18.04518pt too wide) in paragraph at lines 1052--1053
+[][] 
+ []
+
+
+Overfull \hbox (112.90063pt too wide) in paragraph at lines 1086--1087
+[][] 
+ []
+
+[2]
+Overfull \hbox (7.70753pt too wide) in paragraph at lines 1106--1107
+[][] 
+ []
+
+
+Overfull \hbox (70.49414pt too wide) in paragraph at lines 1113--1115
+[][] 
+ []
+
+
+Overfull \hbox (142.33203pt too wide) in paragraph at lines 1125--1131
+[][][][] 
+ []
+
+
+Overfull \hbox (121.13466pt too wide) in paragraph at lines 1131--1137
+[][][][] 
+ []
+
+
+Overfull \hbox (135.41937pt too wide) in paragraph at lines 1137--1143
+[][][][] 
+ []
+
+
+Overfull \hbox (19.56657pt too wide) in paragraph at lines 1143--1144
+[][] 
+ []
+
+
+Overfull \hbox (70.90372pt too wide) in paragraph at lines 1149--1152
+[][] 
+ []
+
+
+Overfull \hbox (288.40228pt too wide) in paragraph at lines 1152--1154
+[][] 
+ []
+
+
+Overfull \hbox (106.56613pt too wide) in paragraph at lines 1154--1156
+[][] 
+ []
+
+
+Overfull \hbox (107.19438pt too wide) in paragraph at lines 1167--1170
+[][] 
+ []
+
+
+Overfull \hbox (113.72063pt too wide) in paragraph at lines 1170--1171
+[][] 
+ []
+
+
+Overfull \hbox (39.77162pt too wide) in paragraph at lines 1173--1179
+[][][][] 
+ []
+
+[3]
+Overfull \hbox (35.53392pt too wide) in paragraph at lines 1216--1218
+[][] 
+ []
+
+
+Overfull \hbox (3.35155pt too wide) in paragraph at lines 1224--1225
+[][] 
+ []
+
+
+Overfull \hbox (103.52063pt too wide) in paragraph at lines 1230--1231
+[][] 
+ []
+
+[4]
+Overfull \hbox (164.93405pt too wide) in paragraph at lines 1270--1272
+[][] 
+ []
+
+[5] (./ParallelRaftSE.aux) ) 
+Here is how much of TeX's memory you used:
+ 1236 strings out of 480608
+ 16847 string characters out of 5903608
+ 266355 words of memory out of 5000000
+ 17166 multiletter control sequences out of 15000+600000
+ 537203 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,10n,25p,233b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/texlive/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmcsc10.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr5.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy7.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+8.pfb><d:/texlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/
+lasy10.pfb>
+Output written on ParallelRaftSE.pdf (5 pages, 140183 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
